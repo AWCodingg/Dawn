@@ -1,3 +1,11 @@
+/* Custom Fonts */
+
+@font-face {
+  font-family: 'Hubballi-Regular';
+  src: url(Hubballi-Regular.ttf) format('opentype');
+}
+
+
 /* Color custom properties */
 
 :root,
