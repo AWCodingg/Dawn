@@ -5,6 +5,10 @@
   src: url(Hubballi-Regular.ttf) format('opentype');
 }
 
+/* Custom Navigation*/
+.you_navigation_class {
+  text-transform: uppercase;
+}
 
 /* Color custom properties */
 
