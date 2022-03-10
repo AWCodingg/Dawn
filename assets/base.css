@@ -5,10 +5,7 @@
   src: url(Hubballi-Regular.ttf) format('opentype');
 }
 
-/* Custom Navigation*/
-.you_navigation_class {
-  text-transform: uppercase;
-}
+
 
 /* Color custom properties */
 
@@ -2881,3 +2878,5 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+.list-menu__item, .collage-wrapper-title, .card-information__text, .collection-hero__title, .product__title {text-transform: uppercase;}
