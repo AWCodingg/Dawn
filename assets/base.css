@@ -2881,8 +2881,8 @@ details-disclosure > details {
 
 .list-menu__item, .collage-wrapper-title, .card-information__text, .collection-hero__title, .product__title {text-transform: uppercase;}
 .header-wrapper {
-  display: block;
-  position: absolute !important;
-  background-color: transparent !important;
-  width: 100%;
+    display: block;
+    position: absolute !important;
+    background-color: transparent !important;
+    width: 100%;
 }
